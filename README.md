@@ -26,7 +26,7 @@
   <a href="https://discord.gg/TON-LIEN">
     <img src="https://img.shields.io/badge/💬 Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://www.buymeacoffee.com/TON-NOM">
+  <a href="https://www.buymeacoffee.com/loyaldev.io">
     <img src="https://img.shields.io/badge/☕ Support Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
 </p>
@@ -109,7 +109,7 @@
 If you like what I build or want to support my SaaS journey:
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/TON-NOM">
+  <a href="https://www.buymeacoffee.com/loyaldev.io">
     <img src="https://img.shields.io/badge/☕ Buy Me a Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
 </p>
