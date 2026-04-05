@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:2563eb&height=220&section=header&text=Loyaldev%20Platform&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=3B82F6&center=true&vCenter=true&width=900&height=100&lines=Loyaldev+Platform;Build.+Scale.+Automate.;SaaS+%7C+CRM+%7C+Automation"/>
 </p>
 
 <!-- ===================== HERO ===================== -->
@@ -95,7 +95,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=loyaldev-io&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=loyaldev-io&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
