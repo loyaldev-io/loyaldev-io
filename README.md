@@ -1,4 +1,4 @@
-<!-- ===================== BANNER ===================== -->
+[<!-- ===================== BANNER ===================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563eb,100:38bdf8&height=250&section=header&text=Loyaldev&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
@@ -137,3 +137,4 @@ I design and build scalable SaaS platforms focused on performance, automation an
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:020617&height=150&section=footer"/>
 </p>
+](https://discord.gg/TON-LIEN)
