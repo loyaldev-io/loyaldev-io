@@ -95,7 +95,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=loyaldev-io&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=loyaldev-io&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
