@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://loyaldev.io">
-    <img src="https://img.shields.io/badge/🌐 Visit Platform-2563eb?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🌐 Website-2563eb?style=for-the-badge"/>
   </a>
   <a href="mailto:contact@loyaldev.io">
     <img src="https://img.shields.io/badge/📩 Work With Me-22c55e?style=for-the-badge"/>
@@ -26,13 +26,16 @@
   <a href="https://discord.gg/TON-LIEN">
     <img src="https://img.shields.io/badge/💬 Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+  <a href="https://www.buymeacoffee.com/TON-NOM">
+    <img src="https://img.shields.io/badge/☕ Support Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-```diff
+```diff id="r3s8fg"
 + 🚀 Founder of Loyaldev
 + 💻 Fullstack Developer (React / Node.js / TypeScript)
 + 🧠 SaaS & CRM Specialist
@@ -56,10 +59,22 @@
 
 ### 🧠 EdenDisk
 
-> Storage SaaS with license system & subscriptions
-> ⚙️ React • Node.js • Stripe
+<p align="center">
+  <a href="https://edendisk.com">
+    <img src="https://edendisk.com/favicon.ico" width="80"/>
+  </a>
+</p>
 
-🔗 Coming soon
+<p align="center">
+  <b>Storage SaaS with license system & subscriptions</b><br/>
+  ⚙️ React • Node.js • Stripe
+</p>
+
+<p align="center">
+  <a href="https://edendisk.com">
+    <img src="https://img.shields.io/badge/🚀 Live Demo-2563eb?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
@@ -85,6 +100,18 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,sqlite,html,css,js,git,github,vscode,figma" />
+</p>
+
+---
+
+## 💖 Support My Work
+
+If you like what I build or want to support my SaaS journey:
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/TON-NOM">
+    <img src="https://img.shields.io/badge/☕ Buy Me a Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
 </p>
 
 ---
