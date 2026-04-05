@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=3B82F6&center=true&vCenter=true&width=900&height=100&lines=Loyaldev+Platform;Build.+Scale.+Automate.;SaaS+%7C+CRM+%7C+Automation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563eb,100:38bdf8&height=250&section=header&text=Loyaldev&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 </p>
 
 <!-- ===================== HERO ===================== -->
